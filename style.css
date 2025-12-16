@@ -1,0 +1,5 @@
+p { color: darkblue; font-weight:bold ;}
+h1, h2 { color:rgba(90, 49, 5, 0.99); font-size: 200%;}
+body {
+    background-color: rgb(110, 85, 48, 0.45);;
+}
